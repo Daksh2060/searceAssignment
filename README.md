@@ -1,6 +1,6 @@
 # Vacuum Cleaning Simulator
 
-This is a project template from UC Berkeley, for a simple search agent. This specific implementation sets a scenario, where the agent is an autonomous vacuum cleaner, trying to reach dirt spilled in different parts of a randomly generated room in the most efficient way possible. The project utilizes various search algorithms including, but not limited to; Greedy Search, Uniform Cost Search, and A* Search utilizing both path cost and a Manhattan heuristic. The project displays both the search path and tiles visited for the vacuum to reach the different piles of dirt through a tkinter UI.
+This is a project template from UC Berkeley, for a simple search agent. This specific implementation sets a scenario, where the agent is an autonomous vacuum cleaner, trying to reach dirt spilled in different parts of a randomly generated room in the most efficient way possible. The project utilizes various search algorithms including, but not limited to; Greedy Best First Search, Uniform Cost Search, and A* Search utilizing both path cost and a Manhattan heuristic. The project displays both the search path and tiles visited for the vacuum to reach the different piles of dirt through a tkinter UI.
 
 ## Features
 

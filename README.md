@@ -23,7 +23,7 @@ Follow these steps to set up and run the Vacuum Cleaning Simulator:
 1. Download or clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Daksh2060/tictactoe-adversarial-opponent
+   git clone https://github.com/Daksh2060/vacuum-cleaning-simulator
    ```
    
 ## Contact
